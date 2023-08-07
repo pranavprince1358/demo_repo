@@ -1,4 +1,7 @@
-# My name is Pranav Prince
+# Demo 
 
+My name is Pranav Prince
 This is my first repository in github
-I am from India
+
+## subheader
+i am 18 years old
